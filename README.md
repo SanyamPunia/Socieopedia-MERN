@@ -15,7 +15,7 @@
 
 ## 🎯 Preview
 
-![preview](server\public\assets\sociopedia.png)
+![preview](https://raw.githubusercontent.com/SanyamPunia/Socieopedia-MERN/main/server/public/assets/sociopedia.png)
 
 ## 👨‍🏭 Features
 * User **sign-up** and **log-in** using JWT and BCRYPT
